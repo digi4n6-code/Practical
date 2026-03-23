@@ -1,0 +1,14 @@
+Decode the following and arrange in order
+
+6+%Qj%rm`w`%lq%g`kq%lk%qm`%pka`wbwjrqm> (key 5, HEX) | MS4gVHdvIHJvYWRzIGRpdmVyZ2VkIGluIGEgeWVsbG93IHdvb2QsDQpBbmQgc29ycnkgSSBjb3VsZCBub3QgdHJhdmVsIGJvdGg= | 32 2e 20 41 6e 64 20 62 65 20 6f 6e 65 20 74 72 61 76 65 6c 65 72 2c 20 6c 6f 6e 67 20 49 20 73 74 6f 6f 64 0d 0a 41 6e 64 20 6c 6f 6f 6b 65 64 20 64 6f 77 6e 20 6f 6e 65 20 61 73 20 66 61 72 20 61 73 20 49 20 63 6f 75 6c 64
+
+
+Encode the following
+
+Two roads diverged in a yellow wood,
+And sorry I could not travel both (BASE64)
+
+And be one traveler, long I stood
+And looked down one as far as I could (hex)
+
+To where it bent in the undergrowth; (XOR, KEY = 5, HEX)
